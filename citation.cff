@@ -1,0 +1,20 @@
+message: Please cite this software using these metadata.
+title: Prevenir Gestão de Biblioteca
+authors:
+  - family-names: de Paula Salgado
+    given-names:  Diego
+  - family-names: Batista Vieira
+    given-names: Gabriel
+  - family-names: Lúcio De Menezes Souta
+    given-names: Victor
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: De Almeida Tôrres
+    given-names: Viviane
+keywords:
+  - Vestuário
+  - Organização
+  - Sustentabilidade
+repository-code: https://github.com/gabrielbvieira90/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-05
+version: 1.0.0
+date-released: 2023-06-25
